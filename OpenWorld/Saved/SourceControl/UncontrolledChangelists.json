@@ -5,9 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Unreal-Engine/OpenWorld/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"D:/Unreal-Engine/OpenWorld/Content/Map1.umap",
 				"D:/Unreal-Engine/OpenWorld/Content/Map1_sharedassets/LayerSlope_LayerInfo.uasset",
+				"D:/DACNTT2_GAME3D/OpenWorld/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/DACNTT2_GAME3D/OpenWorld/Content/Map1.umap",
+				"D:/DACNTT2_GAME3D/OpenWorld/Content/SurfaceMaterials/Grass_LayerInfo.uasset",
+				"D:/DACNTT2_GAME3D/OpenWorld/Content/SurfaceMaterials/Dirt_LayerInfo.uasset",
+				"D:/DACNTT2_GAME3D/OpenWorld/Content/SurfaceMaterials/WetDirt_LayerInfo.uasset",
+				"D:/Unreal-Engine/OpenWorld/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"D:/Unreal-Engine/OpenWorld/Content/Blueprints/BP_Actor.uasset"
 			]
 		}
