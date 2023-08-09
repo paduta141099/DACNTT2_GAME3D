@@ -1,0 +1,6 @@
+2023/07/31-19:42:05.871 19c8 Creating DB D:/DACNTT2_GAME3D/OpenWorld/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/07/31-19:42:06.331 19c8 Reusing MANIFEST D:/DACNTT2_GAME3D/OpenWorld/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/31-19:52:26.089 38ec Level-0 table #5: started
+2023/07/31-19:52:26.173 38ec Level-0 table #5: 1167 bytes OK
+2023/07/31-19:52:26.197 38ec Delete type=0 #3
+2023/07/31-19:52:26.215 38ec Manual compaction at level-0 from (begin) .. (end); will stop at (end)
